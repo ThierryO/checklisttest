@@ -1,5 +1,6 @@
 {
   "title": "checklist: A Thorough and Strict Set of Checks for R Packages and Source Code",
+  "shorttitle": "test to see if a shorttitle is valid",
   "version": "0.3.6",
   "license": "GPL-3.0",
   "upload_type": "software",
